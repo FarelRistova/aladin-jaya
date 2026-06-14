@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"nama": "Bawang",
+		"kategori": "Bahan Baku",
+		"gambar": "bawang.jpg",
+		"deskripsi": "Bahan dasar untuk kebutuhan tumisan dan olahan harian.",
+		"harga": "Rp 24.000 / kg"
+	},
+	{
+		"id": 2,
+		"nama": "Lada",
+		"kategori": "Bahan Baku",
+		"gambar": "lada.jpg",
+		"deskripsi": "Cocok untuk memberi rasa pedas dan aroma pada masakan.",
+		"harga": "Rp 38.000 / 100 g"
+	},
+	{
+		"id": 3,
+		"nama": "Ketumbar",
+		"kategori": "Bahan Baku",
+		"gambar": "ketumbar.jpg",
+		"deskripsi": "Dipakai untuk bumbu dasar dan racikan masakan harian.",
+		"harga": "Rp 22.000 / 100 g"
+	},
+	{
+		"id": 4,
+		"nama": "Ragi",
+		"kategori": "Bahan Baku",
+		"gambar": "ragi.jpg",
+		"deskripsi": "Mendukung proses pengembangan adonan untuk berbagai olahan.",
+		"harga": "Rp 8.000 / sachet"
+	},
+	{
+		"id": 5,
+		"nama": "Baking Soda",
+		"kategori": "Bahan Baku",
+		"gambar": "baking-soda.jpg",
+		"deskripsi": "Bahan pendukung untuk kebutuhan dapur dan pengolahan makanan.",
+		"harga": "Rp 7.500 / sachet"
+	},
+	{
+		"id": 6,
+		"nama": "Baking Powder",
+		"kategori": "Bahan Baku",
+		"gambar": "baking-powder.jpg",
+		"deskripsi": "Digunakan untuk membantu tekstur adonan agar lebih mengembang.",
+		"harga": "Rp 9.500 / sachet"
+	}
+]

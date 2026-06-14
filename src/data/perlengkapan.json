@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"nama": "Blender",
+		"kategori": "Perlengkapan",
+		"gambar": "blender.jpg",
+		"deskripsi": "Peralatan dapur untuk kebutuhan olah bahan dan minuman.",
+		"harga": "Rp 350.000 / unit"
+	},
+	{
+		"id": 2,
+		"nama": "Paper Bag",
+		"kategori": "Perlengkapan",
+		"gambar": "paper-bag.jpg",
+		"deskripsi": "Kemasan praktis untuk pengiriman dan takeaway.",
+		"harga": "Rp 1.200 / pcs"
+	},
+	{
+		"id": 3,
+		"nama": "Paper Cup",
+		"kategori": "Perlengkapan",
+		"gambar": "paper-cup.jpg",
+		"deskripsi": "Cocok untuk minuman siap saji dan layanan minum.",
+		"harga": "Rp 950 / pcs"
+	},
+	{
+		"id": 4,
+		"nama": "Plastic Cup",
+		"kategori": "Perlengkapan",
+		"gambar": "plastic-cup.jpg",
+		"deskripsi": "Pilihan kemasan minuman untuk kebutuhan operasional.",
+		"harga": "Rp 800 / pcs"
+	},
+	{
+		"id": 5,
+		"nama": "Sedotan",
+		"kategori": "Perlengkapan",
+		"gambar": "sedotan.jpg",
+		"deskripsi": "Aksesori pendukung penyajian minuman.",
+		"harga": "Rp 250 / pcs"
+	},
+	{
+		"id": 6,
+		"nama": "Timbangan Digital",
+		"kategori": "Perlengkapan",
+		"gambar": "timbangan-digital.jpg",
+		"deskripsi": "Membantu penakaran bahan secara presisi dan konsisten.",
+		"harga": "Rp 185.000 / unit"
+	}
+]

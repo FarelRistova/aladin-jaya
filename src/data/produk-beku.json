@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"nama": "Daging Ayam",
+		"kategori": "Produk Beku",
+		"gambar": "daging-ayam.jpg",
+		"deskripsi": "Siap untuk kebutuhan stok beku dan pengolahan menu harian.",
+		"harga": "Rp 32.000 / kg"
+	},
+	{
+		"id": 2,
+		"nama": "Daging Sapi",
+		"kategori": "Produk Beku",
+		"gambar": "daging-sapi.jpg",
+		"deskripsi": "Pilihan protein untuk menu restoran dan katering.",
+		"harga": "Rp 115.000 / kg"
+	},
+	{
+		"id": 3,
+		"nama": "Ikan",
+		"kategori": "Produk Beku",
+		"gambar": "ikan.jpg",
+		"deskripsi": "Produk beku untuk kebutuhan dapur yang praktis dan efisien.",
+		"harga": "Rp 42.000 / kg"
+	},
+	{
+		"id": 4,
+		"nama": "Nugget",
+		"kategori": "Produk Beku",
+		"gambar": "nugget.jpg",
+		"deskripsi": "Cocok untuk sajian cepat saji dan menu operasional.",
+		"harga": "Rp 28.000 / pack"
+	},
+	{
+		"id": 5,
+		"nama": "Sosis",
+		"kategori": "Produk Beku",
+		"gambar": "sosis.jpg",
+		"deskripsi": "Praktis untuk berbagai kreasi menu harian.",
+		"harga": "Rp 30.000 / pack"
+	},
+	{
+		"id": 6,
+		"nama": "Udang",
+		"kategori": "Produk Beku",
+		"gambar": "udang.jpg",
+		"deskripsi": "Produk beku untuk hidangan laut dan olahan premium.",
+		"harga": "Rp 145.000 / kg"
+	}
+]

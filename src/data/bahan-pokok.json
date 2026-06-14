@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"nama": "Gula",
+		"kategori": "Bahan Pokok",
+		"gambar": "gula.jpg",
+		"deskripsi": "Digunakan untuk kebutuhan dapur dan produksi harian.",
+		"harga": "Rp 18.000 / kg"
+	},
+	{
+		"id": 2,
+		"nama": "Kecap",
+		"kategori": "Bahan Pokok",
+		"gambar": "kecap.jpg",
+		"deskripsi": "Pelengkap rasa untuk berbagai masakan operasional.",
+		"harga": "Rp 14.500 / botol"
+	},
+	{
+		"id": 3,
+		"nama": "Minyak",
+		"kategori": "Bahan Pokok",
+		"gambar": "minyak.jpg",
+		"deskripsi": "Cocok untuk kebutuhan memasak skala rutin.",
+		"harga": "Rp 17.500 / liter"
+	},
+	{
+		"id": 4,
+		"nama": "Saus",
+		"kategori": "Bahan Pokok",
+		"gambar": "saus.jpg",
+		"deskripsi": "Bumbu pendamping untuk sajian makanan dan menu cepat saji.",
+		"harga": "Rp 12.000 / botol"
+	},
+	{
+		"id": 5,
+		"nama": "Telur",
+		"kategori": "Bahan Pokok",
+		"gambar": "telur.jpg",
+		"deskripsi": "Bahan serbaguna untuk dapur hotel, restoran, dan katering.",
+		"harga": "Rp 27.000 / kg"
+	},
+	{
+		"id": 6,
+		"nama": "Tepung Terigu",
+		"kategori": "Bahan Pokok",
+		"gambar": "tepung-terigu.jpg",
+		"deskripsi": "Bahan dasar untuk adonan, olahan goreng, dan bakery.",
+		"harga": "Rp 11.000 / kg"
+	}
+]
