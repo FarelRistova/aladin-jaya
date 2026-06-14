@@ -16,7 +16,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory('/aladin-jaya/'),
+  history: createWebHistory(),
   routes,
   // Scroll ke atas saat pindah halaman
   scrollBehavior(to, from, savedPosition) {
